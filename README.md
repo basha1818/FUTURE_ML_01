@@ -105,7 +105,6 @@ Random Forest provided better predictions compared to Linear Regression.
 ---
 
 ##  Author
-N.HUSSAIN BASHA
-**Bhuvana Pilla**
+**HUSSAIN BASHA**
 
 ---

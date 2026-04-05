@@ -94,7 +94,7 @@ print("Linear Regression MAE:", mae_lr)
 
 from sklearn.ensemble import RandomForestRegressor
 
-rf = RandomForestRegressor(n_estimators=100, random_state=42)
+rf = RandomForestRegressor(n_estimators=50, random_state=42)
 rf.fit(X_train, y_train)
 
 y_pred_rf = rf.predict(X_test)
